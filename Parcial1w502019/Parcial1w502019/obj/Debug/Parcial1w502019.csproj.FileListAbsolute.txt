@@ -1,0 +1,9 @@
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\bin\Debug\Parcial1w502019.exe.config
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\bin\Debug\Parcial1w502019.exe
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\bin\Debug\Parcial1w502019.pdb
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\obj\Debug\Parcial1w502019.csprojResolveAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\obj\Debug\Parcial1w502019.frmMascota.resources
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\obj\Debug\Parcial1w502019.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\obj\Debug\Parcial1w502019.csproj.GenerateResource.Cache
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\obj\Debug\Parcial1w502019.exe
+D:\Oscar\UTN\ProgramacionII\2019\JM\Parcial1w502019\Parcial1w502019\obj\Debug\Parcial1w502019.pdb
